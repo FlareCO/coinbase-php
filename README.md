@@ -1,4 +1,4 @@
-# Coinbase Wallet PHP Library
+# [FIXED] Coinbase Wallet PHP Library
 
 [![Build Status](https://travis-ci.org/coinbase/coinbase-php.svg)](https://travis-ci.org/coinbase/coinbase-php)
 [![Latest Stable Version](https://poser.pugx.org/coinbase/coinbase/v/stable)](https://packagist.org/packages/coinbase/coinbase)
